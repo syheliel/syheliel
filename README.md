@@ -8,10 +8,9 @@
 🎓 &nbsp;I'm currently studying Software engineering at the East China Normal University.\
 🌱 &nbsp;I'm on track for learning more about crowd sourcing and embedded system.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-<img alt="Night Coding" src="https://raw.githubusercontent.com/syheliel/syheliel/master/assets/Night-Coding.gif" align="right" width="35%" height="60%"/>
 
 ### 🛠 &nbsp;Tech Stack
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/syheliel/syheliel/master/assets/Night-Coding.gif" align="right" width="35%" height="60%"/>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
