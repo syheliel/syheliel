@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about crowd sourcing and embedded system.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/syheliel/syheliel/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/syheliel/syheliel/master/assets/Night-Coding.gif" align="right" width="35%" height="60%"/>
 
 ### 🛠 &nbsp;Tech Stack
 
