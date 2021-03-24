@@ -21,14 +21,15 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IDEA](https://img.shields.io/badge/IDE-Jetbrains-black?style=flat&logo=Jetbrains)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/syheliel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syheliel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syheliel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
