@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about information security.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-For more information, you can visit my :star2:[homepage](https://syheliel.github.io/):star2:.
+For more information, you can visit my :star2:[homepage](https://www.syheliel.live/):star2:.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
