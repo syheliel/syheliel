@@ -8,7 +8,8 @@
 
 ## Project
 - GSOC'22: add NYX support for LibAFL. [link](https://gist.github.com/syheliel/5f11d9c1082edb595f36c371ddbd9dad)
-- LLM inference: add ROCM support for fastllm. [link](https://github.com/syheliel/fastllm)
+- LLM inference: add AMD ROCM support for fastllm. [link](https://github.com/syheliel/fastllm)
+- LLM-based compiler fuzzing framework. Ongoing, not released yet
 
 ## ⚙️ &nbsp;GitHub Analytics
 
