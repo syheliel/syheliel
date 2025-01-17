@@ -19,5 +19,3 @@
 </a>
 </p>
 
-# ❌ shame list
-1. **Meta CodeLlama**: Suspicious open-source philosophy, reject request for no reason.
